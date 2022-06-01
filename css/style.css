@@ -1,0 +1,30 @@
+body{
+    background-color: #FAFAFA !important;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.btn{
+    background-color: #2549D3 !important;
+}
+.container .navbar-brand{
+    font-family: 'Oleo Script', cursive !important;
+}
+.text-primary{
+    color: #0F298B !important;
+}
+.left h3{
+    font-size: 50px;
+}
+#first-section{
+    background-color: #FAFAFA;
+}
+.second-section{
+    background-color: #FFFFFF !important;
+    margin: 100px 270px !important;
+    box-shadow: 10px 30px 40px -40px #2549D3;
+}
+.bi-check2-square{
+    color: #2549D3 !important;
+}
+.footer{
+    background-color: #0F298B !important;
+}
